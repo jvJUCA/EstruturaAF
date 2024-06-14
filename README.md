@@ -1,4 +1,4 @@
-##### Este projeto implementa uma árvore binária de busca em Java, utilizando as classes NodeTree e BinaryTree. A árvore binária de busca é uma estrutura de dados que permite inserção, remoção e pesquisa eficiente de elementos.
+#### Este projeto implementa uma árvore binária de busca em Java, utilizando as classes NodeTree e BinaryTree. A árvore binária de busca é uma estrutura de dados que permite inserção, remoção e pesquisa eficiente de elementos.
 
 ### Integrantes do grupo
  Giovanni Nogueira                RA: 236279
