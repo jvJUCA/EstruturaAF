@@ -51,3 +51,4 @@ Isso executará o programa, que inserirá alguns valores na árvore binária de 
 
 Ao executar o programa, você verá a saída que inclui os elementos da árvore em ordem crescente e uma mensagem indicando se a chave pesquisada foi encontrada na árvore.
 
+# EstruturaAF
